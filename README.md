@@ -1,1 +1,14 @@
 # Hardy-State
+$$\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+The Hardy state is given by:
+
+\[
+\ket{\psi_H} = \frac{1}{\sqrt{3}} \left( \ket{00} + \ket{01} + \ket{10} \right)
+\]
+
+\end{document}
+$$
